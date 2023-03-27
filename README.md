@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Mardanshahi/Mardanshahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 This is how to reach me: iammardanshahi[at]gmail.com | linkedin.com/in/mmardanshahi
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
--->
+
